@@ -2,9 +2,10 @@
 
 **Architectural BIM & CAD Specialist**. I have 10 years of experience producing permit-ready construction documents and Revit models for residential and commercial projects. I work remotely for US architects, builders and developers, from Hanoi, Vietnam.
 
-🌐 **Portfolio:** [andreyruvi.github.io](https://andreyruvi.github.io/)
-💼 **LinkedIn:** [building-bim-design-expert](https://www.linkedin.com/in/building-bim-design-expert/)
-✉️ **Email:** [andreyruvi@gmail.com](mailto:andreyruvi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-andreyruvi.github.io-7dca72?style=flat-square)](https://andreyruvi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/building-bim-design-expert/)
+[![Email](https://img.shields.io/badge/Email-andreyruvi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andreyruvi@gmail.com)
+[![X](https://img.shields.io/badge/X-%40Lamhaiduong123-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Lamhaiduong123)
 
 ### What I do
 
