@@ -1,4 +1,4 @@
-## Hi, I'm Andrey Ruvi (Duong Lam) 👋
+## Hi, I'm Andrey Ruvi (Duong Lam) 
 
 **Architectural BIM & CAD Specialist**. I have 10 years of experience producing permit-ready construction documents and Revit models for residential and commercial projects. I work remotely for US architects, builders and developers, from Hanoi, Vietnam.
 
